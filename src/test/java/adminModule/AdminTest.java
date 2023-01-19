@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class AdminTest {
 	@Test
 	public void adminLoginTest() {
-		Reporter.log("Admin Login Is tested", true);
+		Reporter.log("Admin login is tested", true);
 	}
 	
 	@Test
